@@ -11,3 +11,5 @@ At this step we chose different approach to the problem of replacing NA values. 
 We looked for answers of basic questions like "Which brand is mostly preferred by costumers?", "Which model is mostly preferred by costumers?", "Which model offers the longest range?", "Which electric car model is the most expensive one?" and analysed correlation matrix.
 ### 2) Suggestions
 You can find further suggestions in this section.
+
+Kaggle Link: https://www.kaggle.com/code/merdavarc/data-analyse
